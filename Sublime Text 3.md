@@ -31,7 +31,7 @@ There are various websites with cheatsheets for using and learning Markdown. It 
 
 
 
-# Subime Text Notebook
+# Sublime Text Notebook
 
 Where can Sublime Text be used?
 
@@ -54,9 +54,9 @@ Where can Sublime Text be used?
 
 Plugins - A number of plugins are suggested if one is writing academic papers, including
 
-[Markdown Editing](http://packagecontrol.io/packages/MarkdownEditing), 
+[Markdown Editing](http://packagecontrol.io/packages/MarkdownEditing)
 
-[Academic Markdown](https://packagecontrol.io/packages/AcademicMarkdown), 
+[Academic Markdown](https://packagecontrol.io/packages/AcademicMarkdown)
 
 [Word Count](https://packagecontrol.io/packages/wordcount) 
 
