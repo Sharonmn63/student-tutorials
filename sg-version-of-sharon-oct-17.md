@@ -9,15 +9,17 @@ layout: default
 ---
 
 #Introduction#
-Sublime Text 3 is used for note-taking applications as well as a replacement for Word, as well, it is recommend by many for academic writing that is simple and easy to use. The website claims that Sublime Text is easily read or converted by any machine, and is a "Text Editor that you'll fall in love with".  It is a sophisticated program for code, markup, and prose. 
+Sublime Text 3 is used for note-taking applications as a replacement for Word. Also, it is recommend by many for academic writing that is simple and easy to use. The website claims that Sublime Text is easily read or converted by any machine, and is a "Text Editor that you'll fall in love with".  It is a sophisticated program for code, markup, and prose. 
 
 Downloadable version for Windows is here [Sublime Text Windows](http://www.sublimetext.com/)
+![alt text](/http://s1159.photobucket.com/user/Shar233/library/?view=recent&page=1)
 
 Downloadable  version for Mac is here [Sublime Text Mac](http://www.sublimetext.com/2)
 
 
 #Software & Setup
 One click on the hyperlink and followed the install directions. It is fairly easy to set up and use immediately. 
+
 
 Sublime Text uses Markdown as it's code of choice. Markdown, as I found out in writing this tutorial is simple enough to learn.
 
@@ -26,6 +28,7 @@ There are various websites with cheatsheets for using and learning Markdown. It 
 [Markdown for Dummies](https://medium.com/@taylorhxu/markdown-for-dummies-a24e982b8e85)
 
 [Markdown Cheatsheet](http://scottboms.com/downloads/documentation/markdown_cheatsheet.pdf) if you want a printable PDF
+
 
 [Daring Fireball](https://daringfireball.net/projects/markdown/basics)
 
